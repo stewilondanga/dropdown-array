@@ -133,13 +133,14 @@ body {
   background: #f6f6f6;
 }
 
-/*.dropdown .show, .dropdown .hide {
+.dropdown .show, .dropdown .hide {
   -moz-transform-origin: 50% 0%;
   -ms-transform-origin: 50% 0%;
   -webkit-transform-origin: 50% 0%;
   transform-origin: 50% 0%;
 }
-.dropdown .show {
+
+/*.dropdown .show {
   display: block;
   max-height: 9999px;
   -moz-transform: scaleY(1);
