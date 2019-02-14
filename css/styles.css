@@ -140,7 +140,7 @@ body {
   transform-origin: 50% 0%;
 }
 
-/*.dropdown .show {
+.dropdown .show {
   display: block;
   max-height: 9999px;
   -moz-transform: scaleY(1);
@@ -155,7 +155,8 @@ body {
   -webkit-transition: max-height 1s ease-in-out;
   transition: max-height 1s ease-in-out;
 }
-.dropdown .hide {
+
+/*.dropdown .hide {
   max-height: 0;
   -moz-transform: scaleY(0);
   -ms-transform: scaleY(0);
