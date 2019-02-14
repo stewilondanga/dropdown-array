@@ -106,14 +106,15 @@ body {
   content: '\25BC';
 }
 
-/*.dropdown .dropdown-menu {
+.dropdown .dropdown-menu {
   max-height: 0;
   overflow: hidden;
   list-style: none;
   padding: 0;
   margin: 0;
 }
-.dropdown .dropdown-menu li {
+
+/*.dropdown .dropdown-menu li {
   padding: 0;
 }
 .dropdown .dropdown-menu li a {
