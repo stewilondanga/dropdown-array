@@ -129,10 +129,11 @@ body {
   padding: 10px 10px;
 }
 
-/*.dropdown .dropdown-menu li a:hover {
+.dropdown .dropdown-menu li a:hover {
   background: #f6f6f6;
 }
-.dropdown .show, .dropdown .hide {
+
+/*.dropdown .show, .dropdown .hide {
   -moz-transform-origin: 50% 0%;
   -ms-transform-origin: 50% 0%;
   -webkit-transform-origin: 50% 0%;
