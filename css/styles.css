@@ -102,10 +102,11 @@ body {
   transition: transform 0.6s;
 }
 
-/*.dropdown .icon-arrow:before {
+.dropdown .icon-arrow:before {
   content: '\25BC';
 }
-.dropdown .dropdown-menu {
+
+/*.dropdown .dropdown-menu {
   max-height: 0;
   overflow: hidden;
   list-style: none;
