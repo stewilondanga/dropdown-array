@@ -42,7 +42,7 @@ body {
   margin: 0 0 20px 0;
 }
 
-/*.title {
+.title {
   font-family: 'Pacifico';
   font-weight: norma;
   font-size: 40px;
@@ -51,7 +51,7 @@ body {
   color: #2980B9;
 }
 
-.dropdown a {
+/*.dropdown a {
   text-decoration: none;
 }
 .dropdown [data-toggle="dropdown"] {
