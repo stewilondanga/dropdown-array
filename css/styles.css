@@ -71,7 +71,7 @@ body {
   background: #2c89c6;
 }
 
-/*.dropdown .icon-arrow {
+.dropdown .icon-arrow {
   position: absolute;
   display: block;
   font-size: 0.7em;
@@ -79,7 +79,8 @@ body {
   top: 14px;
   right: 10px;
 }
-.dropdown .icon-arrow.open {
+
+/*.dropdown .icon-arrow.open {
   -moz-transform: rotate(-180deg);
   -ms-transform: rotate(-180deg);
   -webkit-transform: rotate(-180deg);
