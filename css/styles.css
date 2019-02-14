@@ -67,10 +67,11 @@ body {
   padding: 10px;
 }
 
-/*.dropdown [data-toggle="dropdown"]:hover {
+.dropdown [data-toggle="dropdown"]:hover {
   background: #2c89c6;
 }
-.dropdown .icon-arrow {
+
+/*.dropdown .icon-arrow {
   position: absolute;
   display: block;
   font-size: 0.7em;
