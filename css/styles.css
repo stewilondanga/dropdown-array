@@ -354,25 +354,28 @@ body {
   }
 }
 
-/*@-moz-keyframes hideAnimation {
+@-moz-keyframes hideAnimation {
   0% {
     -moz-transform: scaleY(1);
     -ms-transform: scaleY(1);
     -webkit-transform: scaleY(1);
     transform: scaleY(1);
   }
+
   60% {
     -moz-transform: scaleY(0.98);
     -ms-transform: scaleY(0.98);
     -webkit-transform: scaleY(0.98);
     transform: scaleY(0.98);
   }
+
   80% {
     -moz-transform: scaleY(1.02);
     -ms-transform: scaleY(1.02);
     -webkit-transform: scaleY(1.02);
     transform: scaleY(1.02);
   }
+
   100% {
     -moz-transform: scaleY(0);
     -ms-transform: scaleY(0);
@@ -380,7 +383,8 @@ body {
     transform: scaleY(0);
   }
 }
-@-webkit-keyframes hideAnimation {
+
+/*@-webkit-keyframes hideAnimation {
   0% {
     -moz-transform: scaleY(1);
     -ms-transform: scaleY(1);
