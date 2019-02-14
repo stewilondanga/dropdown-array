@@ -51,10 +51,11 @@ body {
   color: #2980B9;
 }
 
-/*.dropdown a {
+.dropdown a {
   text-decoration: none;
 }
-.dropdown [data-toggle="dropdown"] {
+
+/*.dropdown [data-toggle="dropdown"] {
   position: relative;
   display: block;
   color: white;
